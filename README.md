@@ -12,3 +12,7 @@
  whether they won or lost against a random computer score.
  
  Restaurant.py - This is a restaurant menu that allows the user to place an order and then provides a receipt after the order is placed with each item ordered and an order total with tax included. In this program I demonstrated knowledge of if, elif, and else statements as well as looping and working with lists and dictionaries. 
+ 
+ calorietracker.py - This is a program that allows the user to keep a food journal of everything they have eaten throughout
+ the day and the number of calories of each item. The program saves the food journal to a text file and at the end of 
+ the program the user has the option to look at their food journal from previous dates. 
