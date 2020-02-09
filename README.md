@@ -11,4 +11,4 @@
  There is a calculate final score button used to add up the total of all categories at the end of the game and then tells the user
  whether they won or lost against a random computer score.
  
- 
+ Restaurant.py - This is a restaurant menu that allows the user to place an order and then provides a receipt after the order is placed with each item ordered and an order total with tax included. In this program I demonstrated knowledge of if, elif, and else statements as well as looping and working with lists and dictionaries. 
