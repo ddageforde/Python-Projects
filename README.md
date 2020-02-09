@@ -24,3 +24,10 @@ such as the number of players on the active roster, the current team salary, the
 The program also includes options to give raises to players, cut players, or add players to the roster. This project demonstrates
 knowledge of functions, error handling by using the assert statement, looping, and working with the statistics module to
 make calculations.
+
+furniturestore.py - This is another program that uses the Tkinter GUI and allows you to purchase items from a furniture store.
+For orders of $5000 or more a 15% discount is given. For orders with 15 or more items a 25% discount is given. The program has 
+options to remove an item from the order, adjust the quantity of an item ordered, and view the current order summary. Lastly, the
+checkout button simulates an actual online purchase by asking if you want to pay cash or credit then asking you to enter 
+your credentials to make the purchase. I created this program to expand my knowledge of Tkinter by using radio
+buttons, drop down menus, entry forms, etc. to order items from the furniture store.
