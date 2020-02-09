@@ -16,3 +16,5 @@
  calorietracker.py - This is a program that allows the user to keep a food journal of everything they have eaten throughout
  the day and the number of calories of each item. The program saves the food journal to a text file and at the end of 
  the program the user has the option to look at their food journal from previous dates. 
+
+ blackjack.py - This is a blackgame that uses the random module to randomly select cards dealt by the dealer.
