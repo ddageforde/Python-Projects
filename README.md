@@ -17,7 +17,7 @@
  the day and the number of calories of each item. The program saves the food journal to a text file and at the end of 
  the program the user has the option to look at their food journal from previous dates. 
 
- blackjack.py - This is a blackgame that uses the random module to randomly select cards dealt by the dealer. 
+ blackjack.py - This is a blackgame that uses the random module to randomly select cards dealt by the dealer and simulates a blackjack game by telling you what your current hand is after every card is dealt and gives you the option to hit or stand. 
 
  football.py - This program displays the active roster of a football team sorted by position. The program displays team statistics
 such as the number of players on the active roster, the current team salary, the teams's cap space, the average age of each player.
